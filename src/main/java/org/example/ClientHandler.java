@@ -1,3 +1,4 @@
+/*PENSABENE*/
 package org.example;
 
 import java.io.BufferedReader;
